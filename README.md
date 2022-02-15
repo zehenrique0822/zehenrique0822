@@ -3,7 +3,7 @@
 
 - 🔭 Estou estudando e buscando uma oportunidade como desenvolvedor.
 - 💻 Estudando Frontend com React e Backend com PHP (Aberto a aprender novas tecnologias).
-- ⚡ Sou muito esforçado e Aprendo rápido!
+- ⚡ Sou muito esforçado e aprendo rápido!
 
 
 <div align="center">
