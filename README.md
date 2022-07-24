@@ -1,7 +1,6 @@
 ### Olá, sou o José Henrique 👋
 
 
-- 🔭 Estou estudando e buscando uma oportunidade como desenvolvedor.
 - 💻 Estudando Frontend com React e Backend com Node (Aberto a aprender novas tecnologias).
 - ⚡ Sou muito esforçado e aprendo rápido!
 
