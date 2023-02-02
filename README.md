@@ -1,7 +1,7 @@
 ### Olá, sou o José Henrique 👋
 
 
-- 💻 Estudando Frontend com React e Backend com Node (Aberto a aprender novas tecnologias).
+- 💻 Desenvolvedor Frontend com React e Backend com Node (Aberto a aprender novas tecnologias).
 - ⚡ Sou muito esforçado e aprendo rápido!
 
 
