@@ -1,4 +1,4 @@
-### Olá, sou o José Henrique 👋
+### Hello, my name is José Henrique 👋
 
 
 - 💻 Fullstack Javascript Developer - ReactJS + Typescript | Node 
