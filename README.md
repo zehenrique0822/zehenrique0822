@@ -1,8 +1,8 @@
 ### Olá, sou o José Henrique 👋
 
 
-- 💻 Desenvolvedor Frontend com React e Backend com Node (Aberto a aprender novas tecnologias).
-- ⚡ Sou muito esforçado e aprendo rápido!
+- 💻 Fullstack Javascript Developer - ReactJS + Typescript | Node 
+- ⚡Knowledge in HTML, CSS, Javascript, Typescript and React including Hooks, Styled-components, Material UI, Chakra UI, Context API, consumption of APIs, Node, Creation of Rest API.
 
 
 <div align="center">
